@@ -14,7 +14,7 @@ The dataset can be found on [UCI ML repository](https://archive.ics.uci.edu/ml/d
 
 ![Experiment Arthitecture](experiment_arch.jpg)
 
-We conducted 9 experiments, each with a different model and different data processing techniques. We trie different combinations of raw data, PCA encoded data and FLDA encoded data with SVM, CNNs, fully connected network, hybrid models (CNN + SVM or fully connected network + SVM). We also tried different hyperparameters(details availble in the paper) for the models. The results of each model and its combination is shown in the table below.
+We conducted 9 experiments, each with a different model and different data processing techniques. We trie different combinations of raw data, PCA encoded data and FLDA encoded data with SVM, CNNs, fully connected network, hybrid models (CNN + SVM or fully connected network + SVM). We also tried different hyperparameters (details availble in the paper) for the models. The results of each model and its combination is shown in the table below.
 
 ## Results
 
