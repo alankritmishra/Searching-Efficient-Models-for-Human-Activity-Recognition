@@ -7,7 +7,7 @@ The following dataset was used for this study:
 
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra, and Jorge Luis Reyes-Ortiz. 2013. A public domain dataset for human activity recognition using smartphones.
 
-The dataset can be found at [this link](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones).
+The dataset can be found on [UCI ML repository](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones).
 
 
 ## Experiment architecture
