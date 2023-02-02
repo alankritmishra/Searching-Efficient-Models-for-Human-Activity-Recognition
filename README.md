@@ -10,6 +10,7 @@ Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra, and Jorge Luis Reyes-
 The dataset can be found on [UCI ML repository](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones).
 
 
+
 ## Experiment architecture
 
 ![Experiment Arthitecture](experiment_arch.jpg)
